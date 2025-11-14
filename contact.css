@@ -1,0 +1,130 @@
+.container-fluid{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#links {
+text-align: center;
+margin-top: 30px;
+}
+#links #linkh{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+#iconh,#siconh{
+    margin: 10px;
+}
+
+#readmorebtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(5, 80, 14);
+    color: white;
+
+}
+#testsec{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#contactbtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(33, 21, 21);
+    color: white;  
+}
+#olstorebtn{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 40px;
+    width: 250px;
+    margin: 60px 0px ;
+    height: 50px;
+    color: white;
+}
+
+#testid{
+    margin: 100px 0px;
+}
+.revsec  div{
+    margin: 80px 10px;
+    font-family: cursive;
+    background-color: rgba(237, 242, 228, 0.366);
+}
+.rowsec{
+    margin-left: 100px;
+}
+.rowsec div img{
+    border-radius: 50px;
+}
+.imgsec div{
+    margin: 30px 0px;
+    font-family:fantasy;
+}
+.csec{
+    padding: 100px 20px;
+    align-items: center;
+}
+@media only screen and (min-width:1000px){
+    .csec{
+        margin-left: 300px;
+    }
+}
+
+#iconh,#siconh{
+    margin: 10px;
+}
+
+#siconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+#iconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+
+#links #linkh:hover{
+    color: green;
+}
+
+#imgh:hover{
+    transform: scale(1.099);
+}
+
+#name , #email ,#msg{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    background-color: rgba(108, 200, 74, 0.14);
+
+}
+#msg{
+    height: 200px;
+}
+
+#submitbtn{
+    width: 140px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+   color: white;
+    background-color: rgb(0, 128, 0);
+    font-size: 20px;
+}
+#submitbtn:hover{
+    transform: scale(1.09);
+    background-color: rgb(244, 244, 2);
+    color: black;
+}
+
+.carousel-item img {
+  height: 100px;      /* change to your desired height */
+  object-fit: cover;  /* keeps image from stretching */
+}
+
+

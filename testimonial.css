@@ -1,0 +1,98 @@
+.container-fluid{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#links {
+text-align: center;
+margin-top: 30px;
+}
+#links #linkh{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+#iconh,#siconh{
+    margin: 10px;
+}
+
+#readmorebtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(5, 80, 14);
+    color: white;
+
+}
+
+#siconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+#iconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+
+#linkh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+#testsec{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#contactbtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(33, 21, 21);
+    color: white;  
+}
+#olstorebtn{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 40px;
+    width: 250px;
+    margin: 60px 0px ;
+    height: 50px;
+    color: white;
+}
+
+#testid{
+    margin: 100px 0px;
+}
+.revsec  div{
+    margin: 10px 0px ;
+    font-family: cursive;
+    background-color: rgba(237, 242, 228, 0.366);
+}
+@media only screen and (min-width:1000px){
+    .revsec div{
+            margin-left: 85px;
+    margin-top: 85px;
+    }
+}
+.rowsec div img{
+    border-radius: 50px;
+}
+.cdiv div  {
+    color: black;
+}
+
+.pimg{
+    height: 400px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
+#links #linkh:hover{
+    color: green;
+}
+#imgh:hover{
+    transform: scale(1.099);
+}

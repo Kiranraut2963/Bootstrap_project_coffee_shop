@@ -1,0 +1,83 @@
+.container-fluid{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#links {
+text-align: center;
+margin-top: 30px;
+}
+#links #linkh{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+#iconh,#siconh{
+    margin: 10px;
+}
+#kaffa{
+    padding: 100px 0px;
+}
+#rosted{
+    text-align: left;
+    padding: 100px 0px;
+}
+#readmorebtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(5, 80, 14);
+    color: white;
+
+}
+
+#siconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+#iconh:hover{
+    color: green;
+     transform: scale(1.4);
+}
+
+#links #linkh:hover{
+    color: green;
+}
+
+#ctitle{
+    color: green;
+    background-color: rgba(0, 0, 0, 0.307);
+    padding: 40px;
+}
+#imgh:hover{
+    transform: scale(1.099);
+}
+
+
+
+
+#contactbtn{
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(33, 21, 21);
+    color: white;  
+}
+#olstorebtn{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 40px;
+    width: 250px;
+    margin: 60px 0px ;
+    height: 50px;
+    color: white;
+}
+#aroma{
+    padding: 100px 0px;
+}
+
+#ctitle{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 200px;
+}
