@@ -69,12 +69,8 @@ margin-top: 30px;
     font-family: cursive;
     background-color: rgba(237, 242, 228, 0.366);
 }
-@media only screen and (min-width:1000px){
-    .revsec div{
-            margin-left: 85px;
-    margin-top: 85px;
-    }
-}
+
+
 .rowsec div img{
     border-radius: 50px;
 }
@@ -95,4 +91,11 @@ margin-top: 30px;
 }
 #imgh:hover{
     transform: scale(1.099);
+}
+
+@media only screen and (min-width:1000px){
+    .revsec div{
+            margin-left: 85px;
+    margin-top: 85px;
+    }
 }
