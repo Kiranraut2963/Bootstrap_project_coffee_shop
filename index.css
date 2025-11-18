@@ -11,6 +11,9 @@ header #headertopdiv{
 #links a{
     margin: 0px 10px;
 }
+#imgh{
+  margin-top: 35px;
+}
 #imgh:hover{
     transform: scale(1.099);
 }
@@ -143,6 +146,10 @@ header #headertopdiv{
       font-size: 1.5rem;
     }
 
+    #navbarid{
+      margin-bottom: 50px;
+    }
+
 @media only screen and (min-width:768px){
   .cupsec2 {
     /* margin-left: 80px; */
@@ -150,6 +157,8 @@ header #headertopdiv{
     margin-bottom: 80px;
   }
 }
+
+
 
     body {
       background-color: #f8f7f3;
@@ -269,3 +278,5 @@ header #headertopdiv{
     background-color: green ;
     background: linear-gradient(rgba(0, 128, 0, 0.258),rgba(0, 128, 0, 0.389),rgba(0, 128, 0, 0.395));
 }
+
+

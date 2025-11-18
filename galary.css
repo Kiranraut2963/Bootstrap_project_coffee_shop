@@ -24,7 +24,10 @@ margin-top: 30px;
     color: green;
      transform: scale(1.4);
 }
+#imgh{
 
+    margin-top: 65px;
+}
 #linkh:hover{
     color: green;
      transform: scale(1.4);
